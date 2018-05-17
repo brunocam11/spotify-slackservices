@@ -17,4 +17,4 @@ http://www.vogella.com/tutorials/REST/article.html
 
 Consumir RESTful WS
 
-http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/
+http://www.baeldung.com/jersey-jax-rs-client
