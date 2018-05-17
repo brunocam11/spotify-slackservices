@@ -19,3 +19,5 @@ Consumir RESTful WS
 
 Jersey 2.x
 http://www.baeldung.com/jersey-jax-rs-client
+
+https://docs.oracle.com/javaee/7/tutorial/jaxrs-client001.htm
